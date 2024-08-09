@@ -1,0 +1,16 @@
+#gameContainer{
+    text-align: center;
+}
+#gameScreen{
+    border: 3px solid;
+}
+#score{
+    font-size: 100px;
+}
+#reset{
+    font-size: 22px;
+    width: 100px;
+    height: 50px;
+    border: 4px solid;
+    cursor: pointer;
+}
