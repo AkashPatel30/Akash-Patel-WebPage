@@ -102,3 +102,20 @@ button{
 button:hover{
     background-color: #48AFFE;
 }
+
+.image-links {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.contact-image {
+    width: 100px; 
+    height: auto;
+    transition: transform 0.3s ease; 
+}
+
+.contact-image:hover {
+    transform: scale(1.1);
+ }
